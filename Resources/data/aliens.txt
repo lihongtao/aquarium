@@ -1,0 +1,4 @@
+type, name
+0,smallsylv,
+1,balrog,
+2,gus,

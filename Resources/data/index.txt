@@ -1,0 +1,4 @@
+data/stages,1,LoadStageData,
+data/fishes,1,LoadFishData,
+data/pets,1,LoadPetData,
+data/aliens,1,LoadAlienData,
